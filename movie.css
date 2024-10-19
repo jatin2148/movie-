@@ -1,0 +1,52 @@
+header{
+    background-color: rgb(255, 196, 0);
+    font-family: algerian, courier;
+   padding: 10px;
+   display: flex;
+}
+h1{
+    text-align: center;
+}
+#m{
+    text-align: left;
+}
+#a{
+    width: 200px;
+    height: 100px;
+    
+}
+body{
+    background-color:blue;
+    color: black;
+}
+img{
+    width: 460.27px;
+    height: 550.67px;
+}
+#b{
+   
+    display: flex;
+    gap:10px;
+}
+#c{
+    background-color: rgb(0, 255, 255);
+    padding: 10px;
+}
+video{
+    width: 1000px;
+    height: 350px;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+}
+a:link{
+     text-decoration: none;
+}
+a:visited{
+    color: white;
+
+}
